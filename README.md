@@ -38,6 +38,7 @@
 <div style="display: inline_block"><br>
   <img alt="Ash-Insomnia" src="https://img.shields.io/badge/-Insomnia-00000F?style=for-the-badge&logo=insomnia" />
   <img alt="Ash-Visual" src="https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img alt="Ash-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -51,7 +52,7 @@
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
 </div>
 
-## 
+
 ⭐**Redes Sociais**
   
   <div> 
@@ -60,9 +61,9 @@
   <a href = "mailto:ashley.nandahta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ashley-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
- 
 </div>
+
+## 
   
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  ![Snake animation](https://github.com/ashley-nascimento/ashley-nascimento/blob/output/github-contribution-grid-snake.svg)
