@@ -21,7 +21,7 @@
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  
 ## 
-  
+  **DevOps**
 <div align="center">⭐ Minhas Redes Sociais ⭐</div>
 
   
@@ -35,5 +35,5 @@
  
 </div>
   
-**DevOps**
+
  ![Snake animation](https://github.com/ashley-nascimento/ashley-nascimento/blob/output/github-contribution-grid-snake.svg)
