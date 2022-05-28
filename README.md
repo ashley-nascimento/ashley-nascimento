@@ -1,4 +1,8 @@
-### Olá, sou desenvolvedora front-end graduada em Análise e Desenvolvimento de Sistemas 👋
+### Olá, sou desenvolvedora front-end 👋
+
+📖 Atualmente estou estudando TypeScript
+
+🎓 Graduada em Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/ashley-nascimento">
