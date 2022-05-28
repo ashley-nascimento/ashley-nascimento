@@ -2,9 +2,11 @@
 
 <br/>
 
-📖 Atualmente estou estudando TypeScript
+- 🌼 &nbsp; Programar é uma arte.
+- 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas 
+- 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end** na Next Tecnologia.
+- 🌱 &nbsp; Atualmente estou estudando TypeScript.
 
-🎓 Graduada em Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <br/>
