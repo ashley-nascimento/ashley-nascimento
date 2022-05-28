@@ -50,9 +50,11 @@
 <div style="display: inline_block"><br>
    <img alt="Ash-GitHub" src="https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github"/>
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
+ 
 </div>
 
-
+ <br/>
+ 
 ⭐**Redes Sociais**
   
   <div> 
