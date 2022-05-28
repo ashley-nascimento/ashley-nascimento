@@ -28,6 +28,7 @@
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
   <img alt="Ash-Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Ash-styled" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="Ash-jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  
