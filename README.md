@@ -49,8 +49,6 @@
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
 </div>
 
-      <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
- 
 ## 
 ⭐**Redes Sociais**
   
@@ -64,5 +62,5 @@
  
 </div>
   
-
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  ![Snake animation](https://github.com/ashley-nascimento/ashley-nascimento/blob/output/github-contribution-grid-snake.svg)
