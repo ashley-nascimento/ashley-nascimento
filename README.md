@@ -22,7 +22,7 @@
  
 ## 
   
-<div align="center"> ⭐ Minhas Redes Sociais ⭐ </div>
+<div align="center">⭐ Minhas Redes Sociais ⭐</div>
 
   
   <div> 
