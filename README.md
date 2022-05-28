@@ -20,7 +20,7 @@
 </div>
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   
-  **Minhas Redes Sociais**
+  **⭐ Minhas Redes Sociais ⭐**
   
   <div> 
   <a href="https://www.youtube.com/channel/UCINLuKrKUOWTzatY4aFJ4-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
