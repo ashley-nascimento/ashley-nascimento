@@ -1,4 +1,4 @@
-### Olá, sou Ashley Nascimento, desenvolvedora front-end 👋
+### Olá, sou desenvolvedora front-end formada em Análise e Desenvolvimento de Sistemas 👋
 
 <div align="center">
   <a href="https://github.com/ashley-nascimento">
