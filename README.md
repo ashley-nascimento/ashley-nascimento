@@ -21,7 +21,8 @@
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  
 ## 
-  **DevOps**
+
+**DevOps**
 <div align="center">⭐ Minhas Redes Sociais ⭐</div>
 
   
