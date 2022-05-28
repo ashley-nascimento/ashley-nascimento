@@ -13,6 +13,9 @@
   <img alt="Ash-sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank">
   <img alt="Ash-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   <img alt="Ash-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+  <img alt="Ash-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank">
+  
+    <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 </div>
   
