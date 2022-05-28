@@ -8,7 +8,7 @@
 </div>
   
 ## 
-  ⭐**DevOps**
+  ⭐**Minhas Skills**
 <div align="center" style="display: inline_block"><br>
   <img alt="Ash-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
   <img alt="Ash-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
@@ -22,10 +22,7 @@
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
  
 ## 
-
-**DevOps**
-<div align="center">⭐ Minhas Redes Sociais ⭐</div>
-
+⭐**Redes Sociais**
   
   <div> 
   <a href="https://www.youtube.com/channel/UCINLuKrKUOWTzatY4aFJ4-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
