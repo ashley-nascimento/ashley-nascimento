@@ -3,7 +3,7 @@
 <br/>
 
 - 🌼 &nbsp; Programar é uma arte.
-- 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas 
+- 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end** na Next Tecnologia.
 - 🌱 &nbsp; Atualmente estou estudando TypeScript.
 
