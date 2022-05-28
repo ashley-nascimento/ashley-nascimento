@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Ashley Nascimento, desenvolvedora front-end 👋
 
 <div align="center">
   <a href="https://github.com/ashley-nascimento">
