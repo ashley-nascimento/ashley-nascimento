@@ -15,10 +15,10 @@
   <img alt="Ash-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
   <img alt="Ash-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank">
   
-    <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+
 
 </div>
-  
+      <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <div> 
   <a href="https://www.youtube.com/channel/UCINLuKrKUOWTzatY4aFJ4-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/imashyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
