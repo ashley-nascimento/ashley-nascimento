@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-nascimento&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
   
-## ⭐
-  
+## 
+  ⭐
 <div align="center" style="display: inline_block"><br>
   <img alt="Ash-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
   <img alt="Ash-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
