@@ -22,8 +22,9 @@
   <img alt="Ash-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Ash-Insomnia" src="https://img.shields.io/badge/-Insomnia-00000F?style=for-the-badge&logo=insomnia" />
   <img alt="Ash-Visual" src="https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img alt="Ash-Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" />
-  <img alt="Ash-Adobe" src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007AC"/>
+  <img alt="Ash-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Ash-Adobe" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img alt="Ash-InVision" src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
   <img alt="Ash-GitHub" src="https://img.shields.io/badge/-GitHub-00000F?style=for-the-badge&logo=github"/>
   <img alt="Ash-Git" src="https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git"/>
   <img alt="Ash-Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
