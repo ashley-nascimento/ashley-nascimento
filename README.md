@@ -19,8 +19,10 @@
   <img alt="Ash-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
 </div>
       <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
- ## 
-  <div align="center"> ⭐ Minhas Redes Sociais ⭐ </div>
+ 
+## 
+  
+<div align="center"> ⭐ Minhas Redes Sociais ⭐ </div>
 
   
   <div> 
