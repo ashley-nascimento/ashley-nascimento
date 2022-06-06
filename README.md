@@ -1,6 +1,8 @@
 ### Oii! Sou Ashley Nascimento, desenvolvedora front-end 👋
 
-<br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
+</div>
 
 - 🌼 &nbsp; Programar é uma arte.
 - 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas.
