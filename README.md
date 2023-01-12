@@ -6,8 +6,8 @@
 
 - 🌼 &nbsp; Programar é uma arte.
 - 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end** na Next Tecnologia.
-- 🌱 &nbsp; Atualmente estou estudando TypeScript.
+- 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end Plena**.
+- 🌱 &nbsp; Atualmente estou estudando TypeScript e React Native.
 
 
 <div align="center">
