@@ -6,6 +6,7 @@
 
 - 🌼 &nbsp; Programar é uma arte.
 - 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas.
+- 📚 &nbsp; Leitora nas horas vagas.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end Plena**.
 - 🌱 &nbsp; Atualmente estou estudando TypeScript e React Native.
 
