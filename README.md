@@ -4,12 +4,11 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
-- 🌼 &nbsp; Programar é uma arte.
-- 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas.
-- 📚 &nbsp; Leitora nas horas vagas.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end Plena**.
-- 🌱 &nbsp; Atualmente estou estudando TypeScript e React Native.
-
+🌼 Programar é uma arte. <br/>
+🎓 Graduada em Análise e Desenvolvimento de Sistemas. <br/>
+📚 Leitora nas horas vagas. <br/>
+💼 Trabalhando como **Desenvolvedora Front-end Plena**. <br/>
+🌱 Atualmente estou estudando TypeScript e React Native. <br/>
 
 <div align="center">
   <br/>
