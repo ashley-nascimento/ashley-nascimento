@@ -8,7 +8,7 @@
 🎓 &nbsp; Graduada em Análise e Desenvolvimento de Sistemas. <br/>
 📚 &nbsp; Leitora nas horas vagas. <br/>
 💼 &nbsp; Trabalhando como **Desenvolvedora Front-end Plena**. <br/>
-🌱 &nbsp; Atualmente estou estudando TypeScript e React Native. <br/>
+🌱 &nbsp; Atualmente estou estudando React Native e Node.js. <br/>
 
 <div align="center">
   <br/>
@@ -68,13 +68,8 @@
   
   <div> 
   <a href="https://www.youtube.com/channel/UCINLuKrKUOWTzatY4aFJ4-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/imashyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ashley.nandahta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ashycodes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ashycodes@outlook.com"><img src="https://img.shields.io/badge/-Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ashley-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-## 
-  
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
- ![Snake animation](https://github.com/ashley-nascimento/ashley-nascimento/blob/output/github-contribution-grid-snake.svg)
